@@ -85,9 +85,11 @@ accessible to users.
 
 ![Home](https://github.com/beingbvh/Phonepe-Pulse-Data-Visualization/assets/135937352/3d2a1c39-ee13-489f-a0a6-e97f59efb444)
 
-![Analysis](https://github.com/beingbvh/Phonepe-Pulse-Data-Visualization/assets/135937352/13ed9311-8fa7-46e5-b398-71a07e5eddbd)
+![image](https://github.com/Divyadhyanesh/phonepe/assets/133853399/56875031-773f-461a-bc99-dbfabad74081)
 
-![Insights](https://github.com/beingbvh/Phonepe-Pulse-Data-Visualization/assets/135937352/a6f697bd-16de-4057-b2df-b17dd84eb33b)
+
+![image](https://github.com/Divyadhyanesh/phonepe/assets/133853399/dffba137-f827-4d97-b38e-97d53116688a)
+![image](https://github.com/Divyadhyanesh/phonepe/assets/133853399/f09b2d93-075c-49c9-9a88-9cb69ac3b494)
 
 
 
