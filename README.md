@@ -83,8 +83,6 @@ accessible to users.
 
 ![About](https://github.com/beingbvh/Phonepe-Pulse-Data-Visualization/assets/135937352/62b99213-43ba-47a8-9be7-ada7ebfda846)
 
-![Home](https://github.com/beingbvh/Phonepe-Pulse-Data-Visualization/assets/135937352/3d2a1c39-ee13-489f-a0a6-e97f59efb444)
-
 ![image](https://github.com/Divyadhyanesh/phonepe/assets/133853399/56875031-773f-461a-bc99-dbfabad74081)
 
 
